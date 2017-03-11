@@ -1,0 +1,1 @@
+# bs-console-qrcode
