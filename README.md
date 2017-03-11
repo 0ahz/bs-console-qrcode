@@ -1,6 +1,6 @@
 # bs-console-qrcode
 
-A [BrowserSync](http://www.browsersync.io/) plugin displays the access URL in the console via QR code
+A [BrowserSync](http://www.browsersync.io/) plugin displays the access URL in the console ( terminal and browser ) via QR code
 
 ## Install
 
