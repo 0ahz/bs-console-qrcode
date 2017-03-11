@@ -1,0 +1,34 @@
+{
+  "name": "bs-console-qrcode",
+  "version": "1.0.0",
+  "description": "A BrowserSync plugin displays the access URL in the console via QR code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenfri/bs-console-qrcode.git"
+  },
+  "keywords": [
+    "browsersync",
+    "plugin",
+    "qrcode"
+  ],
+  "author": {
+    "name": "stephenfri",
+    "email": "pengoahz@gmail.com",
+    "url": "https://github.com/stephenfri"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenfri/bs-console-qrcode/issues"
+  },
+  "homepage": "https://github.com/stephenfri/bs-console-qrcode#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.11.0"
+  }
+}
