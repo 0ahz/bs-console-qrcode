@@ -16,6 +16,7 @@ node index.js
 ```
 
 ```js
+// ./example/index.js
 const browserSync = require('browser-sync').create();
 
 browserSync.init({
