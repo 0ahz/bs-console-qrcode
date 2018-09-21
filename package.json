@@ -1,6 +1,6 @@
 {
   "name": "bs-console-qrcode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A BrowserSync plugin displays the access URL in the console via QR code",
   "main": "index.js",
   "scripts": {
