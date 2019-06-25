@@ -7,7 +7,7 @@ module.exports.plugin = (opts, bs) => {
 
   bs.events.on("service:running", (data) => {
 
-    qrcode.generate(data.urls.external, (qr) => {
+    qrcode.generate(data.urls.external, {small: true}, (qr) => {
       logger.info(`Scan access external url: ${data.urls.external}`);
       console.log(qr);
     });
