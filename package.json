@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stephenfri/bs-console-qrcode.git"
+    "url": "git+https://github.com/0ahz/bs-console-qrcode.git"
   },
   "keywords": [
     "browsersync",
@@ -16,15 +16,15 @@
     "qrcode"
   ],
   "author": {
-    "name": "stephenfri",
-    "email": "pengoahz@gmail.com",
-    "url": "https://github.com/stephenfri"
+    "name": "0ahz",
+    "email": "shuangoahz@gmail.com",
+    "url": "https://github.com/0ahz"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stephenfri/bs-console-qrcode/issues"
+    "url": "https://github.com/0ahz/bs-console-qrcode/issues"
   },
-  "homepage": "https://github.com/stephenfri/bs-console-qrcode#readme",
+  "homepage": "https://github.com/0ahz/bs-console-qrcode#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8"
   },
